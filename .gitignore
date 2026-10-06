@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# typescript build output
+/dist/
+*.tsbuildinfo
+
+# environment variables
+.env
+.env.local
+.env.production
+
+# logs & debug
+logs
+*.log
+npm-debug.log*
+output.txt
+patch.txt
+
+# coverage
+/coverage
